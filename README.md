@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab8-4f2e-bf48-085597875043.jpg" width="60%" />
 </p>
 
-> [Demo](https://fiqrinoorhadi.github.io/HappyBirthday/) &nbsp;&middot;&nbsp;
+> [Demo](https://fiqrinoorhadi.github.io/happybirthday/) &nbsp;&middot;&nbsp;
 > [Documentation](https://www.fajaraldev.com/2021/04/template-membuat-ucapan-happy-birthday.html)
 
 ## 🚀 How to Use
@@ -13,10 +13,10 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fiqrinoorhadi/HappyBirthday
+    $ git clone https://github.com/fiqrinoorhadi/happybirthday
 
     # Go into the repository
-    $ cd HappyBirthday
+    $ cd happyhirthday
 
     # Open with your text editor
     $ code .
